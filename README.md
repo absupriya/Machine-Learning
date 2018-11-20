@@ -1,1 +1,2 @@
-# Implement Machine Learning algorithms
+# Machine-Learning
+Implement Machine Learning algorithms
